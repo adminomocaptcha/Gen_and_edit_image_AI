@@ -34,3 +34,4 @@ node_modules/
 
 # Ignore JSON in workflows
 workflows/*.json
+workflows/_debug
